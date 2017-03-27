@@ -1,0 +1,2 @@
+D:\Downloads\MovieDB\MovieDB\MovieDB\MovieDB\obj\Debug\MovieDB.csprojResolveAssemblyReference.cache
+D:\Downloads\MovieDB\MovieDB\MovieDB\MovieDB\bin\Debug\MovieDB.exe.config
